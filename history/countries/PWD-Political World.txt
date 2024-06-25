@@ -1,4 +1,4 @@
-﻿capital = 970 #Moscow
+﻿capital = 202 #Moscow
 
 oob = "PWD_2023"
 

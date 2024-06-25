@@ -1,4 +1,4 @@
-capital = 202 #Moscow
+capital = 202 #Kiev
 
 oob = "UKR_2023"
 
@@ -84,7 +84,7 @@ if = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = fascism
 	last_election = "1917.9.8"
 	election_frequency = 36
 	elections_allowed = no
@@ -92,8 +92,8 @@ set_politics = {
 
 set_popularities = {
 	democratic = 14
-	fascism = 12
-	neutrality = 74
+	fascism = 74
+	neutrality = 12
 }
 
 create_country_leader = {
@@ -101,7 +101,7 @@ create_country_leader = {
 	desc = "Konovalec_desc"
 	picture = "gfx/leaders/UKR/Portrait_UKR_Konovalec.dds"
 	expire = "2024.1.1"
-	ideology = despotism
+	ideology = fascist
 	traits = {
 	}
 }
