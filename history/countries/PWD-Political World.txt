@@ -1,6 +1,6 @@
 ﻿capital = 970 #Moscow
 
-oob = "WHR_1936"
+oob = "PWD_2023"
 
 set_research_slots = 3
 
@@ -9,7 +9,7 @@ set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
 	tech_recon = 1
-	tech_support = 1		
+	tech_support = 1
 	tech_engineers = 1
 	tech_military_police = 1
 	tech_mountaineers = 1
@@ -97,26 +97,14 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Anton Denikin"
-	desc = "Anton_Denikin_desc"
-	picture = "gfx/leaders/WHR/Portrait_WHR_Denikin.dds"
-	expire = "1962.1.1"
+	name = "Pingvin"
+	desc = "Pingvin_desc"
+	picture = "gfx/leaders/PWD/Portrait_PWD_Pingvin.dds"
+	expire = "2024.1.1"
 	ideology = despotism
 	traits = {
-		
 	}
 }
-
-#create_country_leader = {
-#	name = ""
-#	desc = ""
-#	picture = ""
-#	expire = "1953.3.1"
-#	ideology = oligarchism
-#	traits = {
-#		
-#	}
-#}
 
 
 
