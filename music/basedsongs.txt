@@ -1,0 +1,540 @@
+music_station ="based_radio"
+
+#music = {
+#	song = "maintheme"
+#	chance = {
+#		modifier = {
+#			factor = 0.5
+#		}		
+#	}
+#}
+
+# Communist music ##################
+music = {
+	song = "lal1"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+			has_government = democratic
+		}		
+	}	
+}
+music = {
+	song = "lal2"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal3"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal5"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal6"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal7"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal8"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal9"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal10"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal11"
+	
+	chance = {
+		modifier = {
+			factor = 0.5
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal12"
+	
+	chance = {
+		modifier = {
+			factor = 0.5
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal14"
+	
+	chance = {
+		modifier = {
+			factor = 0.5
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal15"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal16"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal17"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal18"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal19"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal20"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal21"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal22"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal23"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal24"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal25"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal26"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal27"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal28"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal29"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal30"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal31"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal32"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal33"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal34"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal35"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal36"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal37"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal38"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal39"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal40"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal41"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal42"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal43"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal44"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal45"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}
+music = {
+	song = "lal46"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+			has_government = communism
+		}		
+	}	
+}

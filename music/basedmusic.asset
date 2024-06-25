@@ -1,0 +1,235 @@
+
+# MAIN THEME
+#music = {
+#	name = "maintheme"
+#	file = "lal0.ogg"
+#	volume = 2.00
+#}
+
+#Communist Music
+music = {
+	name = "lal1"
+	file = "lal.ogg"
+	volume = 3.00
+}
+
+music = {
+	name = "lal2"
+	file = "lal2.ogg"
+	volume = 3.00
+}
+
+music = {
+	name = "lal3"
+	file = "lal3.ogg"
+	volume = 3.00
+}
+
+music = {
+	name = "lal5"
+	file = "lal5.ogg"
+	volume = 3.00
+}
+
+music = {
+	name = "lal6"
+	file = "lal6.ogg"
+	volume = 3.00
+}
+
+music = {
+	name = "lal7"
+	file = "lal7.ogg"
+	volume = 3.00
+}
+
+music = {
+	name = "lal8"
+	file = "lal8.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal9"
+	file = "lal9.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal10"
+	file = "lal10.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal11"
+	file = "lal11.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal12"
+	file = "lal12.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal14"
+	file = "lal14.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal15"
+	file = "lal15.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal16"
+	file = "lal16.ogg"
+	volume = 2.00
+}
+music = {
+	name = "lal17"
+	file = "lal17.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal18"
+	file = "lal18.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal19"
+	file = "lal19.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal20"
+	file = "lal20.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal21"
+	file = "lal21.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal22"
+	file = "lal22.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal23"
+	file = "lal23.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal24"
+	file = "lal24.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal25"
+	file = "lal25.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal26"
+	file = "lal26.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal27"
+	file = "lal27.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal28"
+	file = "lal28.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal29"
+	file = "lal29.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal30"
+	file = "lal30.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal31"
+	file = "lal31.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal32"
+	file = "lal32.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal33"
+	file = "lal33.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal34"
+	file = "lal34.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal35"
+	file = "lal35.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal36"
+	file = "lal36.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal37"
+	file = "lal37.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal38"
+	file = "lal38.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal39"
+	file = "lal39.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal40"
+	file = "lal40.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal41"
+	file = "lal41.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal42"
+	file = "lal42.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal43"
+	file = "lal43.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal44"
+	file = "lal44.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal45"
+	file = "lal45.ogg"
+	volume = 3.00
+}
+music = {
+	name = "lal46"
+	file = "lal46.ogg"
+	volume = 3.00
+}
