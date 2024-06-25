@@ -7,7 +7,7 @@ state=
 	state_category = town
 	
 	history= {
-		owner = UKR
+		owner = KIR
 		victory_points = {
 			3707 1
 		}
@@ -15,7 +15,7 @@ state=
 			infrastructure = 2
 			air_base = 2
 		}
-		add_core_of = UKR
+		add_core_of = KIR
 	}
 	provinces = { 414 565 3407 3577 3707 3724 6600 9683 11686 11705 }
 	local_supplies=4.0
