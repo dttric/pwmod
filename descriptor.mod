@@ -7,3 +7,4 @@ tags={
 }
 name = "Повидло Ворд"
 supported_version = "1.14.*"
+replace_path = "common/bookmarks"
