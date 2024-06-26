@@ -1,3 +1,5 @@
 KOS	= "countries/Kosovo.txt"
 PWD = "countries/Political World.txt"
 SKD = "countries/SKDR.txt"
+GNO = "countries/GN1.txt"
+GNT = "countries/GN2.txt"
