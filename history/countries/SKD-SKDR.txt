@@ -100,7 +100,7 @@ create_country_leader = {
 	desc = "Mangal_desc"
 	picture = "gfx/leaders/SKD/Portrait_SKD_Mangal.dds"
 	expire = "2024.1.1"
-	ideology = fascist
+	ideology = socialism
 	traits = {
 	}
 }
