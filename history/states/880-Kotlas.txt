@@ -7,14 +7,14 @@ state = {
 	state_category = rural
 
 	history = {
-		owner = SKD
+		owner = PWD
 		victory_points = {
 			11061 1
 		}
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = SKD
+		add_claim_of = SKD
 		add_core_of = PWD
 		1939.1.1 = {
 			buildings = {
