@@ -1,14 +1,15 @@
 
 state={
-	id=247
-	name="STATE_247"
-	manpower = 1331211
+	id=224
+	name="STATE_224"
+	manpower = 1707567
+	
 	state_category = town
 
 	history={
 		owner = PWD
 		victory_points = {
-			6245 10 
+			3335 10
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
@@ -18,7 +19,7 @@ state={
 	}
 
 	provinces={
-		85 150 344 3143 3176 3323 6022 6122 6203 6245 6346 9046 9144 9256 11084 11154 11250 
+		288 315 343 371 398 3226 3306 3335 3364 3390 6305 6330 6386 6411 11229 11298 11325 
 	}
 
 	local_supplies=0.0 
