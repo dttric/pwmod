@@ -26,6 +26,7 @@ state={
 			}
 		}
 		add_core_of = SKD
+		add_core_of = PWD
 		if = {
 			limit = {
 				has_dlc = "Arms Against Tyranny"

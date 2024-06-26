@@ -17,6 +17,7 @@ state={
 			air_base = 2
 		}
 		add_core_of = GNO
+		add_core_of = PWD
 	}
 
 	provinces = {

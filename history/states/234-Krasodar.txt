@@ -30,6 +30,7 @@ state={
 			}
 		}
 		add_core_of = UKR
+		add_core_of = PWD
 	}
 
 	provinces={

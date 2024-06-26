@@ -8,6 +8,7 @@ state = {
 	history = {
 		owner = GNO
 		add_core_of = GNO
+		add_core_of = PWD
 		buildings = {
 			infrastructure = 2
 			air_base = 1

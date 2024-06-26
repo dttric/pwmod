@@ -8,6 +8,7 @@ state={
 	history={
 		owner = SKD
 		add_core_of = SKD
+		add_core_of = PWD
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2

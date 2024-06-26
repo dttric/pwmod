@@ -12,6 +12,7 @@ state={
 
 		}
 		add_core_of = SKD
+		add_core_of = PWD
 	}
 
 	provinces={
