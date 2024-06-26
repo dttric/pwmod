@@ -1,9 +1,9 @@
-version="0.0.1"
+version = "0.0.1"
 tags={
 	"Alternative History"
 	"Map"
 	"National Focuses"
 	"Events"
 }
-name="Повидло V Жопе"
-supported_version="1.14.7"
+name = "Повидло Ворд"
+supported_version = "1.14.*"
