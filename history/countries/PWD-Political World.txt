@@ -94,15 +94,18 @@ if = {
 		target = UKR
 		autonomous_state = autonomy_integrated_puppet
 	}
-		set_autonomy = {
+	set_autonomy = {
 		target = SKD
 		autonomous_state = autonomy_integrated_puppet
 	}
-		set_autonomy = {
+	set_autonomy = {
 		target = GNT
 		autonomous_state = autonomy_integrated_puppet
 	}
-	
+	set_autonomy = {
+		target = GNO
+		autonomous_state = autonomy_integrated_puppet
+	}
 	
 set_politics = {
 	ruling_party = neutrality
