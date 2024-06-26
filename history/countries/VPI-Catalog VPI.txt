@@ -95,9 +95,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Ya ebu?"
-	desc = "Ya_ebu?_desc"
-	picture = "gfx/leaders/VPI/Portrait_VPI_Ya_ebu?.dds"
+	name = "Define"
+	desc = "Define_desc"
+	picture = "gfx/leaders/VPI/Portrait_VPI_Define.dds"
 	expire = "2024.1.1"
 	ideology = despotism
 	traits = {
