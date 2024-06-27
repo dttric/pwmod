@@ -1,0 +1,25 @@
+state={
+	id=972
+	name="STATE_972"
+
+	history={
+		owner = UKR
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+		}
+		add_core_of = UKR
+		add_core_of = PWD
+
+	}
+
+	provinces={
+		6546 9520 3496 11503 6579 535
+	}
+	manpower=54679
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

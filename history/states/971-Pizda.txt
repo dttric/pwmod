@@ -1,0 +1,16 @@
+state={
+	id=971
+	name="STATE_971"
+	provinces={
+		9554 6232 6556 11453 3507 9249 9342 9288
+	}
+	history={
+		owner = UKR
+		add_core_of = UKR
+        add_core_of = PWD
+	}
+	manpower=135679
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = city
+}
