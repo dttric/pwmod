@@ -1,8 +1,4 @@
 graphical_culture = eastern_european_gfx
 graphical_culture_2d = eastern_european_2d
 
-<<<<<<< HEAD
-color = rgb { 255 232 0 }
-=======
 color = { 52 255 1 }
->>>>>>> 295d82f9bfeeeba4322c78f74495202836d42619
