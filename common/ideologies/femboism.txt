@@ -39,17 +39,18 @@ ideologies = {
 		war_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
 		faction_impact_on_world_tension = 0.3 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension
 		
-		modifiers = { # More rules for the ideology. Every country [[Modifiers|modifier]] can apply.
-			generate_wargoal_tension = 0 # Required world tension to start justifying a war (0 to 1)
-			join_faction_tension = 0 # Required world tension to join a faction (0 to 1)
-			lend_lease_tension = 0 # Required tension to start a lend-lease (0 to 1)
-			send_volunteers_tension = 0 # Required tension to send volunteers (0 to 1)
-			guarantee_tension = 0 # Required tension to guarantee a nation (0 to 1)
-			take_states_cost_factor = 0 # Changes the cost of states in a peace deal. 0.25 would increase state cost by 25% (-1 to 1)
-			annex_cost_factor = 0 # Changes the cost of entirely annexing a nation in a peace deal. 0.5 would increase annexing cost by 50% (-1 to 1)
-			justify_war_goal_when_in_major_war_time = 0 # Changes the cost of justifying a war while in a major war. 0.5 would decrease time by 50% (0 to 1)
-			drift_defence_factor = -1 # Natural drift defence for the ideology # 0.3 would grant 30% drift defence (-1 to 1)
-			puppet_cost_factor = -1 # Changes the cost of puppeting a nation in a peace deal (-1 to 1)
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+			embargo_cost_factor = -0.5
+			embargo_threshold_factor = -0.5
 		}
 
 		can_be_boosted = yes # Can you boost this ideologies popularity in another country (yes/no)
