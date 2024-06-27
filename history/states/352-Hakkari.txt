@@ -8,6 +8,7 @@ state={
 
 	history={
 		owner = UCR
+		add_core_of = UCR
 		victory_points = {
 			12476 1 
 		}
@@ -20,23 +21,7 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-		if = {
-			limit = {
-				has_dlc = "Battle for the Bosporus"
-			}
-			add_core_of = KUR
-			add_core_of = TUR
-		}
-		if = {
-			limit = {
-				NOT = { has_dlc = "Battle for the Bosporus" }
-			}
-			add_core_of = TUR
-			add_core_of = UCR
-			add_core_of = KUR
-		}
 	}
-
 	provinces={
 		864 1463 7530 10497 11739 12318 12476
 	}
