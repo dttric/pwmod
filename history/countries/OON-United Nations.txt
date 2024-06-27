@@ -99,7 +99,7 @@ create_country_leader = {
 	desc = "UN_desc"
 	picture = "gfx/leaders/OON/Portrait_OON_UN.dds"
 	expire = "2024.1.1"
-	ideology = democracy
+	ideology = liberalism
 	traits = {
 	}
 }

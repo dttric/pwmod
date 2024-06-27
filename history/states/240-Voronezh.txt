@@ -10,6 +10,9 @@ state={
 		victory_points = {
 			9449 1
 		}
+
+        set_demilitarized_zone = yes
+
 		owner = PWD
 		buildings = {
 			infrastructure = 3 #was: 5
