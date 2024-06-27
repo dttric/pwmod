@@ -84,15 +84,15 @@ if = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = pingvinism
 	last_election = "1917.9.8"
 	election_frequency = 36
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 26
-	neutrality = 74
+	pingvinism = 80
+	centralism = 20
 }
 
 create_country_leader = {
@@ -100,7 +100,17 @@ create_country_leader = {
 	desc = "LRA_desc"
 	picture = "gfx/leaders/GNT/Portrait_GNT_LRA.dds"
 	expire = "2024.1.1"
-	ideology = despotism
+	ideology = pingvinism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Lyagushka"
+	desc = "Lyagushka_desc"
+	picture = "gfx/leaders/GNT/Portrait_GNT_LRA.dds"
+	expire = "2024.1.1"
+	ideology = centralism
 	traits = {
 	}
 }

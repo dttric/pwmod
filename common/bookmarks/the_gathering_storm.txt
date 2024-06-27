@@ -4,7 +4,7 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 2022.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "PWD"
 		default = yes
 		"VPI"={
 			history = "VPI_GATHERING_STORM_DESC"
@@ -40,7 +40,7 @@ bookmarks = {
 		}
 		"GNT"={
 			history = "GNT_GATHERING_STORM_DESC"
-			ideology = neutrality
+			ideology = pingvinism
 			ideas = {
 			}
 			focuses = {
@@ -56,7 +56,7 @@ bookmarks = {
 		}
 		"PWD"={
 			history = "PWD_GATHERING_STORM_DESC"
-			ideology = neutrality
+			ideology = pingvinism
 			ideas = {
 			}
 			focuses = {
@@ -70,5 +70,5 @@ bookmarks = {
 			focuses = {
 			}
 		}
-}
+	}
 }

@@ -91,7 +91,9 @@ set_politics = {
 }
 
 set_popularities = {
-	neutrality = 100
+	neutrality = 80
+	centralism = 13
+	pingvinism = 7
 }
 
 create_country_leader = {
