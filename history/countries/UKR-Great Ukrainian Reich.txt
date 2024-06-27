@@ -103,5 +103,6 @@ create_country_leader = {
 	expire = "2024.1.1"
 	ideology = fascism_ideology
 	traits = {
+		Fascist Militarist
 	}
 }
