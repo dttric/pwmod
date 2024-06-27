@@ -89,7 +89,9 @@ set_politics = {
 	election_frequency = 36
 	elections_allowed = no
 }
-
+add_ideas = {
+	UKR_on_verge
+}
 set_popularities = {
 	democratic = 14
 	fascism = 74

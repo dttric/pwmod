@@ -1,6 +1,6 @@
 spriteTypes = {
     spriteType = {
-        name = "GFX_idea_on_verge"
-        texturefile = "gfx/interface/UKR/on_verge.dds"
+        name = "GFX_idea_UKR_on_verge"
+        texturefile = "gfx/interface/ideas/UKR/idea_UKR_on_verge.dds"
     }
 }
