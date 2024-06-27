@@ -1,24 +1,15 @@
 ideologies = {
 	
-	anarchism = {
+	centralism = {
 	
 		types = {
-			anarcho_syndicalism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
-				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
-			}
-			anarcho_capitalism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
-				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
-			}
-			national_anarchism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
-				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
-			}
-			anarcho_communism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
+			centralism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
 				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
 			}
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_ANARCHIST_1" # Faction names used by the ai when an ai with this ideology creates a faction. Can be defined in any localisation file.
+			"FACTION_NAME_CENTRALIST_1" # Faction names used by the ai when an ai with this ideology creates a faction. Can be defined in any localisation file.
 		}
 		
 		color = { 169 42 42 } # RGB ideology colour, used in the political pie chart or next to the chart if subideology of country leader dont have its own color. 
@@ -27,11 +18,11 @@ ideologies = {
             can_create_collaboration_government = yes # Can create a collaboration government
 			can_declare_war_on_same_ideology = yes # Declare war on same ideology. Not required
 			can_force_government = yes # Can change ideology in peace deal. Required
-			can_send_volunteers = no # Can send volunteers. Required
+			can_send_volunteers = yes # Can send volunteers. Required
 			can_puppet = yes # Can puppet a nation at peace deal. Required
 			can_lower_tension = yes# Lowers tension at peace deal. Not required
 			can_only_justify_war_on_threat_country = yes # Can only justify on a nation that has generated world tension/threat. Not required
-			can_guarantee_other_ideologies = no # Can guarantee nations with different ideologies. Not required
+			can_guarantee_other_ideologies = yes # Can guarantee nations with different ideologies. Not required
 		}
 
         can_host_government_in_exile = no #Can host a government in exile
