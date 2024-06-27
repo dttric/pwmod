@@ -107,6 +107,12 @@ if = {
 		autonomous_state = autonomy_integrated_puppet
 	}
 	
+create_faction = PW
+add_to_faction = UKR
+add_to_faction = SKD
+add_to_faction = GNO
+add_to_faction = GNT
+
 set_politics = {
 	ruling_party = neutrality
 	last_election = "1917.9.8"
