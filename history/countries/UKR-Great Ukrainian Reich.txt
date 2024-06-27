@@ -91,6 +91,7 @@ set_politics = {
 }
 add_ideas = {
 	UKR_on_verge
+	UKR_pingvinophobia
 }
 set_popularities = {
 	democratic = 14

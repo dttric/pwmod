@@ -35,6 +35,7 @@ bookmarks = {
 			ideology = fascism
 			ideas = {
 				UKR_on_verge
+				UKR_pingvinophobia
 			}
 			focuses = {
 			}

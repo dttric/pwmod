@@ -1,8 +1,8 @@
 ideas = {
 
 	country = {
-		picture = "UKR_on_verge"
 		UKR_on_verge = {
+			picture = "UKR_on_verge"
 			allowed = {
 				always = no
 			}
@@ -23,6 +23,20 @@ ideas = {
                 production_factory_efficiency_gain_factor = -0.5
 				production_speed_buildings_factor = -0.7
 				consumer_goods_factor = 0.75
+			}
+		}
+
+		UKR_pingvinophobia = {
+			picture = "UKR_pingvinophobia"
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			modifier = {
 			}
 		}
     }
