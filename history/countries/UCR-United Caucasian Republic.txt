@@ -84,16 +84,14 @@ if = {
 }
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = anarchism
 	last_election = "1917.9.8"
 	election_frequency = 36
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 30
-	communism = 60
-	fascism = 10
+	anarchism = 100
 }
 
 create_country_leader = {
@@ -101,7 +99,7 @@ create_country_leader = {
 	desc = "Dimo_desc"
 	picture = "gfx/leaders/UCR/Portrait_UCR_Dimo.dds"
 	expire = "2024.1.1"
-	ideology = anarchist_communism
+	ideology = anarcho_syndicalism
 	traits = {
 	}
 }
