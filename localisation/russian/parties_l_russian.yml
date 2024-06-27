@@ -72,7 +72,8 @@ l_russian:
  pingvinism: "Пингвинизм"
 
  # Партии государств
- OON_democratic_party: "Совет ООН"
+ OON_democratic_party: "ФМБ"
+ OON_democratic_party_long: "Фонд мировой безопасности"
  UKR_fascism_party: "ОУН(М)"
  UKR_fascism_party_long: "Огранизация Украинских Националистов (Мельники)"
  PWD_pingvinism_party: "Партия Пингвина"
