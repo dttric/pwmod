@@ -2,7 +2,7 @@ bookmarks = {
 	bookmark = {
 		name = "GATHERING_STORM_NAME"
 		desc = "GATHERING_STORM_DESC"
-		date = 2022.1.1
+		date = 2022.1.1.12
 		picture = "GFX_select_date_1936"
 		default_country = "GER"
 		default = yes
@@ -62,4 +62,13 @@ bookmarks = {
 			focuses = {
 			}
 		}
+		"OON"={
+			history = "OON_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+}
 }
