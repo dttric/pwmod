@@ -94,6 +94,8 @@
  PWD: "Политикал Ворлд"
  PWD_DEF: "Политикал Ворлд"
  PWD_ADJ: "Пингвиновск."
+ PWD_integrated_puppet: "Пингвиновский"
+ PWD_autonomy_puppet: "Пингвиновский"
  SKD: "СКДР"
  SKD_DEF: "СКДР"
  SKD_ADJ: "СКДРовск."

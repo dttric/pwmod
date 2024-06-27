@@ -106,7 +106,7 @@ if = {
 		target = GNO
 		autonomous_state = autonomy_integrated_puppet
 	}
-	
+}
 create_faction = PW
 add_to_faction = UKR
 add_to_faction = SKD
@@ -114,15 +114,14 @@ add_to_faction = GNO
 add_to_faction = GNT
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = pingvinism
 	last_election = "1917.9.8"
 	election_frequency = 36
 	elections_allowed = no
 }
 
 set_popularities = {
-	fascism = 40
-	neutrality = 60
+	pingvinism = 100
 }
 
 create_country_leader = {
@@ -130,7 +129,7 @@ create_country_leader = {
 	desc = "Pingvin_desc"
 	picture = "gfx/leaders/PWD/Pingvin.dds"
 	expire = "2024.1.1"
-	ideology = despotism
+	ideology = pingvinism
 	traits = {
 	}
 }

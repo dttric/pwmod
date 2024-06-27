@@ -34,6 +34,7 @@ bookmarks = {
 			history = "UKR_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
+				UKR_on_verge
 			}
 			focuses = {
 			}
@@ -66,6 +67,7 @@ bookmarks = {
 			history = "OON_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
+				ALL_alliancebanned
 			}
 			focuses = {
 			}

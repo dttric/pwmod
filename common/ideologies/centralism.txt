@@ -12,7 +12,7 @@ ideologies = {
 			"FACTION_NAME_CENTRALIST_1" # Faction names used by the ai when an ai with this ideology creates a faction. Can be defined in any localisation file.
 		}
 		
-		color = { 169 42 42 } # RGB ideology colour, used in the political pie chart or next to the chart if subideology of country leader dont have its own color. 
+		color = { 0 102 204 } # RGB ideology colour, used in the political pie chart or next to the chart if subideology of country leader dont have its own color. 
 		
 		rules = { # Rules for the ideology.  (yes/no)
             can_create_collaboration_government = yes # Can create a collaboration government

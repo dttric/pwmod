@@ -90,6 +90,9 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+	ALL_alliancebanned
+}
 set_popularities = {
 	democratic = 100
 }

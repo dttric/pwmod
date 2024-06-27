@@ -9,7 +9,7 @@ ideologies = {
 			fem_anarchism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
 				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
 			}
-		    fem_democratic = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
+			fem_democratic = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
 				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
 			}
 			fem_centralism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
@@ -21,7 +21,7 @@ ideologies = {
 			"FACTION_NAME_FEMBOISM_1" # Faction names used by the ai when an ai with this ideology creates a faction. Can be defined in any localisation file.
 		}
 		
-		color = rgb { 254 45 213 } # RGB ideology colour, used in the political pie chart or next to the chart if subideology of country leader dont have its own color. 
+		color = { 254 45 213 } # RGB ideology colour, used in the political pie chart or next to the chart if subideology of country leader dont have its own color. 
 		
 		rules = { # Rules for the ideology.  (yes/no)
             can_create_collaboration_government = yes # Can create a collaboration government

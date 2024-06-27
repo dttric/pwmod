@@ -1,0 +1,11 @@
+ideas {
+	country = {
+		ALL_alliancebanned = {
+			removal_cost = -1
+			allowed = { always = no}
+			rule = {
+				can_join_factions = no
+			}
+		}
+	}
+}
