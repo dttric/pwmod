@@ -3,4 +3,12 @@ spriteTypes = {
         name = "GFX_idea_UKR_on_verge"
         texturefile = "gfx/interface/ideas/UKR/idea_UKR_on_verge.dds"
     }
+    spriteType = {
+        name = "GFX_idea_ALL_alliancebanned"
+        texturefile = "gfx/interface/ideas/ALL/idea_ALL_alliancebanned.dds"
+    }
+    spriteType = {
+        name = "GFX_idea_OON_debuffed"
+        texturefile = "gfx/interface/ideas/ALL/idea_OON_debuffed.dds"
+    }
 }

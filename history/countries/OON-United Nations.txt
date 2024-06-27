@@ -92,6 +92,7 @@ set_politics = {
 
 add_ideas = {
 	ALL_alliancebanned
+	OON_debuffed
 }
 set_popularities = {
 	democratic = 100

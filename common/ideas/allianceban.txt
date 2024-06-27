@@ -1,6 +1,7 @@
 ideas {
 	country = {
 		ALL_alliancebanned = {
+			picture = ALL_alliancebanned
 			removal_cost = -1
 			allowed = { always = no}
 			rule = {
