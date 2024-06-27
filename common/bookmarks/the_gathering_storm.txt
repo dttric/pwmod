@@ -69,6 +69,7 @@ bookmarks = {
 			ideology = democratic
 			ideas = {
 				ALL_alliancebanned
+				OON_debuffed
 			}
 			focuses = {
 			}

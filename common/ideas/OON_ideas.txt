@@ -1,0 +1,28 @@
+ideas = {
+	country = {
+		OON_debuffed = {
+			picture = OON_debuffed
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			modifier = {
+				political_power_factor = -1
+				stability_factor = -1
+				war_support_factor = -1
+				research_speed_factor = -1
+				monthly_population = -1
+                surrender_limit = -1
+                disabled_ideas = 1
+                production_factory_max_efficiency_factor = -1
+                production_factory_efficiency_gain_factor = -1
+				production_speed_buildings_factor = -1
+				consumer_goods_factor = 1
+			}
+		}
+    }
+}
