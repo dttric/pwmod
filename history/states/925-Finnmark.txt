@@ -1,37 +1,13 @@
 state = {
 	id = 925
 	name = "STATE_925"
-
-	manpower = 142100 # 355251
 	
 	state_category = pastoral
 	
-	resources = {
-		tungsten = 5
-	}
+	manpower = 0
 
-	history = {
-		
-		victory_points = {
-			9116 1
-		}
-		
-		owner = NOR
-		add_core_of = NOR
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-			add_core_of = SMI
-		}
-		buildings = {
-			infrastructure = 1
-			
-			9116 = {
-				naval_base = 3
-			}
-		}
-		
+	history={
+		owner = 
 	}
 
 	provinces = {

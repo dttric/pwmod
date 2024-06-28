@@ -2,23 +2,13 @@
 state={
 	id=135
 	name="STATE_135"
-	manpower = 941400
 
 	state_category = town
 
+	manpower = 0
+
 	history={
-		owner = IRE
-		buildings = {
-			infrastructure = 3 #was: 6
-			industrial_complex = 3
-		}
-		victory_points = {
-			7394 5 #Cork
-		}
-		victory_points = {
-			6313 1 #Limerick
-		}
-		add_core_of = IRE
+		owner = 
 	}
 
 	provinces={

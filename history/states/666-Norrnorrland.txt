@@ -2,47 +2,13 @@
 state = {
 	id = 666
 	name = "STATE_666"
-	manpower = 100222
 	state_category = rural
-	resources = {
-		tungsten = 44
-		steel = 50
-		chromium = 25
-	}
+
+	manpower = 0
 
 	history={
-		owner = SWE
-		victory_points = {
-			9108 2 
-		}
-		victory_points = {
-			3095 1
-		}
-
-		victory_points = {
-			11155 1
-		}
-
-		victory_points = {
-			9147 1
-		}
-		
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			9108 = {
-				naval_base = 2
-
-			}
-
-		}
-		add_core_of = SWE
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-			add_core_of = SMI
-		}
+		owner = 
+	}
 
 	}
 

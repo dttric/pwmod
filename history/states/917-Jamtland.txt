@@ -2,28 +2,12 @@ state = {
 	id = 917
 	name = "STATE_917"
 	
-	manpower = 65000
 	state_category = rural
 
-	resources = {
-		steel = 20
-	}
+	manpower = 0
 
-	history = {
-		victory_points = {	
-			11148 1
-		}
-		owner = SWE
-		add_core_of = SWE
-		if = {
-			limit = {
-				has_dlc = "Arms Against Tyranny"
-			}
-			add_core_of = SMI
-		}
-		buildings = {
-			infrastructure = 2
-		}
+	history={
+		owner = 
 	}
 
 	provinces = {
