@@ -19,7 +19,7 @@ state = {
 				naval_base = 3
 			}
 		}
-		add_claim_of = SKD
+		add_core_of_SKD
 		add_core_of = PWD
 		1939.1.1 = {
 			buildings = {

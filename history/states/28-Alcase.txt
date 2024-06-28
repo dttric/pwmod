@@ -9,8 +9,6 @@ state={
 
 	history={
 		owner = 
-		}
-
 	}
 
 	provinces={
