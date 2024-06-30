@@ -1,17 +1,12 @@
 state = {
 	id=884
-	name = "STATE_884"  # Upper Nile 
-	manpower = 1040121
+	name = "STATE_884"  # Upper Nile
 	state_category = pastoral
 
-	history = {
-		owner = ENG
-		add_core_of = SUD
-		buildings = {
-			infrastructure = 2
+	manpower = 0
 
-		}
-
+	history={
+		owner = 
 	}
 
 	provinces = {

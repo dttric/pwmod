@@ -2,28 +2,12 @@
 state={
 	id=295
 	name="STATE_295"
-	manpower = 1947522
 	state_category = rural
 
+	manpower = 0
+
 	history={
-		owner = BEL
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			10968 = {
-				naval_base = 1
-
-			}
-
-		}
-		victory_points = {
-			191 1 
-		}
-		victory_points = {
-			5117 3 
-		}
-		add_core_of = COG
-
+		owner = 
 	}
 
 	provinces={

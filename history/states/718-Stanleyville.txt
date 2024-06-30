@@ -2,21 +2,12 @@
 state={
 	id=718
 	name="STATE_718"
-	manpower = 1656749
 	state_category=pastoral
 
-	resources = {
-		rubber = 3.000
-	}
+	manpower = 0
 
 	history={
-		owner = BEL
-		buildings = {
-			infrastructure = 1
-
-		}
-		add_core_of = COG
-
+		owner = 
 	}
 
 	provinces={

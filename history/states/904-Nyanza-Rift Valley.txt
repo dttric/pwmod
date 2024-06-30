@@ -1,16 +1,12 @@
 state={
 	id=904
 	name="STATE_904"
-	manpower = 678400
 	state_category = pastoral
 
-	history={
-		owner = ENG
-		buildings = {
-			infrastructure = 1
+	manpower = 0
 
-		}
-		add_core_of = KEN
+	history={
+		owner = 
 	}
 
 	provinces={
