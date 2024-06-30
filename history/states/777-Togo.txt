@@ -2,21 +2,10 @@ state={
 	id=777
 	name="STATE_777"
 
+	manpower = 0
+
 	history={
-		owner = FRA
-		add_core_of = TOG
-		victory_points = {
-			1951 1
-		}
-		buildings = {
-			infrastructure = 2
-			1951 = {
-				naval_base = 1
-
-			}
-
-		}
-
+		owner = 
 	}
 
 	provinces={

@@ -2,20 +2,10 @@
 state={
 	id=556
 	name="STATE_556"
-	manpower = 1662391
-	state_category=rural
+	manpower = 0
 
 	history={
-		owner = FRA
-		add_core_of = MLI
-		victory_points = {
-			4927 1 
-		}
-		buildings = {
-			infrastructure = 2
-
-		}
-
+		owner = 
 	}
 
 	provinces={

@@ -2,18 +2,12 @@
 state={
 	id=721
 	name="STATE_721"
-	manpower = 455604
 	
 	state_category = pastoral
 
+	manpower = 0
 	history={
-		owner = POR
-		buildings = {
-			infrastructure = 2
-			12190 ={
-				naval_base = 1
-			}
-		}
+		owner = 
 	}
 
 	provinces={

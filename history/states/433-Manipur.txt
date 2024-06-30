@@ -2,25 +2,9 @@
 state={
 	id=433
 	name="STATE_433" # Rajasthan
-	manpower = 11786000
-	
-	state_category = town
-	
-	
-	resources={
-		# tungsten=32 # was: 42
-	}
-
+	manpower = 0
 	history={
-		victory_points = {
-			2054 1
-		}
-		owner = RAJ
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-		}
-
+		owner = 
 	}
 
 	provinces={

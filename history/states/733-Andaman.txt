@@ -1,19 +1,9 @@
 state={
 	id=733
 	name="STATE_733"
-	manpower=29500
-	state_category = small_island
-	
+	manpower = 0
 	history={
-		owner = ENG
-		buildings = {
-			infrastructure = 2
-			12251 = {
-				naval_base = 2
-
-			}
-		}
-
+		owner = 
 	}
 	provinces={
 		10321 12251 

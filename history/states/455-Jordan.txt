@@ -2,24 +2,13 @@
 state={
 	id=455
 	name="STATE_455"
-	manpower = 932000
 	
 	state_category = rural
 
-	history={
-		owner = ENG
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-		}
-		victory_points = {
-			7151 1 
-		}
-		victory_points = {
-			11976 1 
-		}
+	manpower = 0
 
-		add_core_of = JOR
+	history={
+		owner = 
 	}
 
 	provinces={

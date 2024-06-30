@@ -2,32 +2,11 @@
 state={
 	id=458
 	name="STATE_458"
-	manpower = 1982940
 	state_category = town
-	resources={
-		steel=31 #was 14 # was: 8
-	}
+	manpower = 0
 
 	history={
-		owner = FRA
-		add_core_of = TUN
-		victory_points = {
-			11969 10 
-		}
-		victory_points = {
-			9994 1 
-		}
-		victory_points = {
-			11921 1 
-		}
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			air_base = 8
-			9994 = {
-				naval_base = 8
-			}
-		}
+		owner = 
 	}
 
 	provinces={

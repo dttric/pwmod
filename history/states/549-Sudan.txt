@@ -2,20 +2,11 @@
 state={
 	id=549
 	name="STATE_549" #Kurdufan / was "Sudan"
-	
-	manpower = 1802132
 
-	history = {
-		victory_points = {
-			2096 1 
-		}
-		owner = ENG
-		add_core_of = SUD
-		buildings = {
-			infrastructure = 2
+	manpower = 0
 
-		}
-
+	history={
+		owner = 
 	}
 
 	provinces={

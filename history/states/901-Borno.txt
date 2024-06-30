@@ -1,16 +1,13 @@
 state={
 	id=901
 	name="STATE_901"
-	manpower = 166240
 	state_category = pastoral
 
+	manpower = 0
+
 	history={
-		owner = ENG
-		add_core_of = NGA
-		buildings = {
-			infrastructure = 1
-		}
-	}  
+		owner = 
+	}
 
 	provinces={
 		4997 5028 8109 10820 

@@ -2,19 +2,9 @@
 state={
 	id=320
 	name="STATE_320"
-	manpower = 286410
-
-	state_category = enclave
-
+	manpower = 0
 	history={
-		owner = FRA
-		add_core_of = RAJ
-		buildings = {
-			infrastructure = 3 #was: 5
-			10149 = {
-				naval_base = 1
-			}
-		}
+		owner = 
 	}
 
 	provinces={ 10149 }

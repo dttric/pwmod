@@ -2,19 +2,9 @@
 state={
 	id=440
 	name="STATE_440"
-	manpower = 13665000
-	
-	state_category = town
-
+	manpower = 0
 	history={
-		victory_points = {
-			10887 5
-		}
-		owner = RAJ
-		buildings = {
-			infrastructure = 3 #was: 5
-		}
-		add_core_of = PAK
+		owner = 
 	}
 
 	provinces={
