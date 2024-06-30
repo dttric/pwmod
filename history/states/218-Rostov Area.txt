@@ -21,12 +21,8 @@ state={
 			}
 		}
 		add_core_of = UKR
+		add_core_of = AUK
 		add_core_of = PWD
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-			}
-		}
 	}
 
 	provinces={

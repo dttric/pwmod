@@ -1,6 +1,6 @@
-capital = 202 #Kiev
+capital = 227 #DeNeRe
 
-oob = "UKR_2023"
+oob = "AUK_2023"
 
 set_research_slots = 3
 
@@ -84,27 +84,24 @@ if = {
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = anarchism
 	last_election = "1917.9.8"
 	election_frequency = 36
 	elections_allowed = no
 }
 add_ideas = {
-	UKR_on_verge
-	UKR_pingvinophobia
 }
 set_popularities = {
-	democratic = 14
-	fascism = 74
-	neutrality = 12
+	anarchism = 75
+	communism = 25
 }
 
 create_country_leader = {
-	name = "Konovalec"
-	desc = "Konovalec_desc"
-	picture = "gfx/leaders/UKR/Konovalec.dds"
+	name = "Mahno"
+	desc = "Mahno_desc"
+	picture = "gfx/leaders/AUK/Mahno.dds"
 	expire = "2024.1.1"
-	ideology = fascism_ideology
+	ideology = anarcho_syndicalism
 	traits = {
 	}
 }
