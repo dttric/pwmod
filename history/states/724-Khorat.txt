@@ -1,24 +1,9 @@
 state={
 	id=724
 	name="STATE_724"
-	manpower = 2041700
-	
-	state_category = rural
-	
-	resources={
-		rubber=40 # was: 70
-	}
-
-
+	manpower=0
 	history={
-		owner = SIA
-		buildings = {
-			infrastructure = 2
-		}
-		victory_points = {
-			7236 1 
-		}
-		add_core_of = SIA
+		owner =
 	}
 	
 	provinces={

@@ -2,22 +2,9 @@
 state={
 	id=627
 	name="STATE_627"
-	manpower = 1496508
-	
-	state_category = rural
-
+	manpower=0
 	history={
-		owner = PHI
-		buildings = {
-			infrastructure = 2
-			4241 = {
-				naval_base = 1
-			}
-		}
-		victory_points = {
-			4241 3 
-		}
-		add_core_of = PHI
+		owner =
 	}
 
 	provinces={
