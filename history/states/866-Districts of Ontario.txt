@@ -1,15 +1,14 @@
 state = {
 	id = 866
 	name = "STATE_866"
-	manpower = 10000
+	manpower = 0
 	provinces = {
 		761 763 3736 4753 13315
 	}
 
-	history = {
-		owner = CAN
-		add_core_of = CAN
-	}
+	history={
+		owner = 
+		}
 	
 	state_category = pastoral
 	buildings_max_level_factor = 1.000
