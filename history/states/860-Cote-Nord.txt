@@ -1,14 +1,12 @@
 state = {
 	id = 860
 	name = "STATE_860"
-	manpower=110000
+	manpower=0
 	state_category = rural
 	
-	history = {
-		owner = CAN
-		add_core_of = CAN
-		add_core_of = QUE
-	}
+	history={
+		owner = 
+		}
 	
 	provinces = {
 		7683 7807 7810 10534 10715 12600 13293

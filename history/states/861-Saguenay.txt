@@ -1,14 +1,12 @@
 state = {
 	id = 861
 	name = "STATE_861"
-	manpower = 50000
+	manpower = 0
 	state_category = pastoral
 	
-	history = {
-		owner = CAN
-		add_core_of = CAN
-		add_core_of = QUE
-	}
+	history={
+		owner = 
+		}
 	
 	provinces = {
 		1657 4666 13164 
