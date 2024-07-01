@@ -7,7 +7,6 @@ state=
 	history={
 		owner = 
 	}
-	}
 	provinces={
 		12140
 	}
