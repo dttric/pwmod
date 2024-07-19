@@ -4,6 +4,8 @@ state=
 	name="STATE_124"
 	manpower = 0
 
+    state_category = city
+
 	history={
 		owner = 
 	}

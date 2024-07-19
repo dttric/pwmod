@@ -84,7 +84,7 @@ if = {
 }
 
 set_politics = {
-	ruling_party = democracy
+	ruling_party = democratic
 	last_election = "1917.9.8"
 	election_frequency = 36
 	elections_allowed = no

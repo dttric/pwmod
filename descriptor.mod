@@ -5,6 +5,7 @@ tags={
 	"National Focuses"
 	"Events"
 }
+picture="thumbnail.png"
 name = "Political World on fire"
 supported_version = "1.14.*"
 replace_path = "common/bookmarks"

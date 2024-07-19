@@ -13,6 +13,7 @@ state={
 		}
 		add_core_of = UKR
         add_core_of = PWD
+		add_core_of = OUN
 	}
 	manpower=124587
 	buildings_max_level_factor=1.000

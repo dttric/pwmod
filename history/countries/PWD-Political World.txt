@@ -120,6 +120,10 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+	PWD_after_raids
+}
+
 set_popularities = {
 	pingvinism = 100
 }

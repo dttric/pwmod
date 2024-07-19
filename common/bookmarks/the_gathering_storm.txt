@@ -35,7 +35,8 @@ bookmarks = {
 			ideology = fascism
 			ideas = {
 				UKR_on_verge
-				UKR_pingvinophobia
+				UKR_unbreakable_ukrainian_spirit
+				UKR_bandera_opposition
 			}
 			focuses = {
 			}
@@ -60,6 +61,7 @@ bookmarks = {
 			history = "PWD_GATHERING_STORM_DESC"
 			ideology = pingvinism
 			ideas = {
+				PWD_its_over
 			}
 			focuses = {
 			}

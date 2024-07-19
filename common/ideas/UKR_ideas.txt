@@ -26,8 +26,26 @@ ideas = {
 			}
 		}
 
-		UKR_pingvinophobia = {
-			picture = "UKR_pingvinophobia"
+		UKR_unbreakable_ukrainian_spirit = {
+			picture = "UKR_unbreakable_ukrainian_spirit"
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			modifier = {
+				surrender_limit = 0.5
+				autonomy_gain = 1
+				army_core_defence_factor = 0.25
+				army_core_attack_factor = 0.20
+			}
+		}
+
+		UKR_bandera_opposition = {
+			picture = "UKR_bandera_opposition"
 			allowed = {
 				always = no
 			}

@@ -1,34 +1,12 @@
 state = {
 	id = 951
 	name = "STATE_951"
-	manpower = 340000
+	manpower = 0
 	
 	state_category = rural
 
-	resources = {
-		tungsten = 14 # In replacement of Nitrate
-	}
-
-	history = {
-
-		owner = CHL
-		add_core_of = CHL
-		add_claim_by = PRU
-
-		buildings = {
-			infrastructure = 1
-			arms_factory = 1
-			air_base = 1
-		}
-		
-		victory_points = {
-			5131 2
-		}
-
-		victory_points = {
-			8217 1
-		}
-
+	history={
+		owner = 
 	}
 
 	provinces = {

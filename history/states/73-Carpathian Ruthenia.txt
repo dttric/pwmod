@@ -14,6 +14,8 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = UKR
+		add_core_of = PWD
+		add_core_of = OUN
 
 	}
 

@@ -1,9 +1,5 @@
 spriteTypes = {
     spriteType = {
-        name = "GFX_idea_UKR_on_verge"
-        texturefile = "gfx/interface/ideas/UKR/idea_UKR_on_verge.dds"
-    }
-    spriteType = {
         name = "GFX_idea_ALL_alliancebanned"
         texturefile = "gfx/interface/ideas/ALL/idea_ALL_alliancebanned.dds"
     }
@@ -12,7 +8,19 @@ spriteTypes = {
         texturefile = "gfx/interface/ideas/OON/idea_OON_debuffed.dds"
     }
     spriteType = {
-        name = "GFX_idea_UKR_pingvinophobia"
-        texturefile = "gfx/interface/ideas/UKR/idea_UKR_pingvinophobia.dds"
+        name = "GFX_idea_UKR_on_verge"
+        texturefile = "gfx/interface/ideas/UKR/idea_UKR_on_verge.dds"
+    }
+    spriteType = {
+        name = "GFX_idea_UKR_unbreakable_ukrainian_spirit"
+        texturefile = "gfx/interface/ideas/UKR/idea_UKR_unbreakable_ukrainian_spirit.dds"
+    }
+    spriteType = {
+        name = "GFX_idea_UKR_bandera_opposition"
+        texturefile = "gfx/interface/ideas/UKR/idea_UKR_bandera_opposition.dds"
+    }
+    spriteType = {
+        name = "GFX_idea_PWD_after_raids"
+        texturefile = "gfx/interface/ideas/UKR/idea_PWD_after_raids.dds"
     }
 }

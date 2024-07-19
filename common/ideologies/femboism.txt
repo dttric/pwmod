@@ -6,10 +6,10 @@ ideologies = {
 			fem_fascism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
 				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
 			}
-			fem_anarchism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
+			fem_ancom = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
 				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
 			}
-			fem_democratic = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
+			fem_ancap = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)
 				can_be_randomly_selected = no # If no, the subideology will not be randomly selected when creating a new random leader.
 			}
 			fem_centralism = { # Used when assigning ideologies to leaders. Eg. democratic has conservatism, liberalism, and socialism. One value can be defined (yes/no)

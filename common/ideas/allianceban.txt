@@ -1,4 +1,4 @@
-ideas {
+ideas = {
 	country = {
 		ALL_alliancebanned = {
 			picture = ALL_alliancebanned

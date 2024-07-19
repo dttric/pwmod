@@ -5,20 +5,8 @@ state = {
 	
 	state_category = city
 
-	history={
+	history = {
 		owner = 
-		}
-		
-		victory_points = {
-			4345 20
-		}
-		victory_points = {
-			12149 3
-		}
-		victory_points = {
-			10230 1
-		}
-
 	}
 
 	provinces = {
