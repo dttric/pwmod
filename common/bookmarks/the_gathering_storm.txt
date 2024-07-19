@@ -61,7 +61,7 @@ bookmarks = {
 			history = "PWD_GATHERING_STORM_DESC"
 			ideology = pingvinism
 			ideas = {
-				PWD_its_over
+				PWD_after_raids
 			}
 			focuses = {
 			}

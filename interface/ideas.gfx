@@ -3,10 +3,16 @@ spriteTypes = {
         name = "GFX_idea_ALL_alliancebanned"
         texturefile = "gfx/interface/ideas/ALL/idea_ALL_alliancebanned.dds"
     }
+
+#ООН
+
     spriteType = {
         name = "GFX_idea_OON_debuffed"
         texturefile = "gfx/interface/ideas/OON/idea_OON_debuffed.dds"
     }
+
+#УКРАИНА
+
     spriteType = {
         name = "GFX_idea_UKR_on_verge"
         texturefile = "gfx/interface/ideas/UKR/idea_UKR_on_verge.dds"
@@ -19,8 +25,22 @@ spriteTypes = {
         name = "GFX_idea_UKR_bandera_opposition"
         texturefile = "gfx/interface/ideas/UKR/idea_UKR_bandera_opposition.dds"
     }
+
+#УПА
+
+    spriteType = {
+        name = "GFX_idea_OUN_not_yet_perished"
+        texturefile = "gfx/interface/ideas/OUN/idea_OUN_not_yet_perished.dds"
+    }
+    spriteType = {
+        name = "GFX_idea_OUN_ataman"
+        texturefile = "gfx/interface/ideas/OUN/idea_OUN_ataman.dds"
+    }
+
+#ПВ
+
     spriteType = {
         name = "GFX_idea_PWD_after_raids"
-        texturefile = "gfx/interface/ideas/UKR/idea_PWD_after_raids.dds"
+        texturefile = "gfx/interface/ideas/PWD/idea_PWD_after_raids.dds"
     }
 }

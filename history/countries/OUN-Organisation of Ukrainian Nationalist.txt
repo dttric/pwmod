@@ -90,6 +90,8 @@ set_politics = {
 	elections_allowed = no
 }
 add_ideas = {
+	OUN_not_yet_perished
+	OUN_ataman
 }
 set_popularities = {
 	democratic = 3
