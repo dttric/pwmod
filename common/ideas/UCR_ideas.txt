@@ -1,0 +1,35 @@
+ideas = {
+	country = {
+		UCR_anarchy = {
+			picture = UCR_anarchy
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.15
+				war_support_factor = -0.10
+			}
+		}
+		UCR_communes = {
+			picture = UCR_communes
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.10
+				industrial_capacity_factory = -0.15
+				research_speed_factor = -0.25
+			}
+		}
+    }
+}

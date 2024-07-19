@@ -89,7 +89,10 @@ set_politics = {
 	election_frequency = 36
 	elections_allowed = no
 }
-
+add_ideas = {
+	UCR_anarchy
+	UCR_communes
+}
 set_popularities = {
 	anarchism = 100
 }

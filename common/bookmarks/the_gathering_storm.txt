@@ -18,6 +18,8 @@ bookmarks = {
 			history = "UCR_GATHERING_STORM_DESC"
 			ideology = communism
 			ideas = {
+				UCR_anarchy
+				UCR_communes
 			}
 			focuses = {
 			}

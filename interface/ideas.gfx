@@ -43,4 +43,18 @@ spriteTypes = {
         name = "GFX_idea_PWD_after_raids"
         texturefile = "gfx/interface/ideas/PWD/idea_PWD_after_raids.dds"
     }
+
+#Кавказ
+
+    spriteType = {
+        name = "GFX_idea_UCR_communes"
+        texturefile = "gfx/interface/ideas/UCR/idea_UCR_communes.dds"
+    }
+    spriteType = {
+        name = "GFX_idea_UCR_anarchy"
+        texturefile = "gfx/interface/ideas/UCR/idea_UCR_anarchy.dds"
+    }
 }
+
+
+
