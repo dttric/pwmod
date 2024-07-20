@@ -93,6 +93,7 @@ add_ideas = {
 	UKR_on_verge
 	UKR_unbreakable_ukrainian_spirit
 	UKR_bandera_opposition
+	UKR_anti_communism
 }
 set_popularities = {
 	democratic = 14

@@ -25,6 +25,10 @@ spriteTypes = {
         name = "GFX_idea_UKR_bandera_opposition"
         texturefile = "gfx/interface/ideas/UKR/idea_UKR_bandera_opposition.dds"
     }
+    spriteType = {
+        name = "GFX_idea_UKR_anti_communism"
+        texturefile = "gfx/interface/ideas/UKR/idea_UKR_anti_communism.dds"
+    }
 
 #УПА
 
@@ -50,6 +54,14 @@ spriteType = {
         name = "GFX_idea_PWD_after_raids"
         texturefile = "gfx/interface/ideas/PWD/idea_PWD_after_raids.dds"
     }
+
+#ВСПВ
+
+    spriteType = {
+        name = "GFX_idea_PUK_just_soldiers"
+        texturefile = "gfx/interface/ideas/PUK/idea_PUK_just_soldiers.dds"
+    }
+
 
 #Кавказ
 

@@ -1,0 +1,25 @@
+ideas = {
+	country = {
+		PUK_just_soldiers = {
+			picture = PUK_just_soldiers
+			allowed = {
+				always = no
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			modifier = {
+				war_support_factor = 1
+				research_speed_factor = -1
+				monthly_population = -1
+                surrender_limit = 0.25
+                production_factory_max_efficiency_factor = -1
+                production_factory_efficiency_gain_factor = -1
+				production_speed_buildings_factor = -1
+				consumer_goods_factor = 1
+			}
+		}
+    }
+}
