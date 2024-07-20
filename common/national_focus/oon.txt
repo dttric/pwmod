@@ -1,40 +1,18 @@
-### search_filters = {FOCUS_FILTER_POLITICAL}
-### search_filters = {FOCUS_FILTER_RESEARCH}
-### search_filters = {FOCUS_FILTER_INDUSTRY}
-### search_filters = {FOCUS_FILTER_STABILITY}
-### search_filters = {FOCUS_FILTER_WAR_SUPPORT}
-### search_filters = {FOCUS_FILTER_MANPOWER}
-### search_filters = {FOCUS_FILTER_ANNEXATION}
-
 focus_tree = {
-	id = oon_focus
-	
+	id = oon
 	country = {
 		factor = 0
-		
 		modifier = {
 			add = 10
 			tag = OON
 		}
 	}
 	default = no
-	
-	default = yes
-	reset_on_civilwar = no
-
-	initial_show_position = {
-		focus = industrial_effort
-	}
-
 	focus = {
 		id = OON_im_not_playable
 		icon = GFX_goal_generic_allies_build_infantry
+		cost = 0
 		x = 1
 		y = 1
-		cost = 0
-		search_filters = {  FOCUS_FILTER_RESEARCH }
-		
-		available_if_capitulated = yes
 	}
-
 }
