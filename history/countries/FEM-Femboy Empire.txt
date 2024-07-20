@@ -90,6 +90,7 @@ set_politics = {
 	elections_allowed = no
 }
 add_ideas = {
+	FEM_pmc_boykisser
 }
 set_popularities = {
 	femboism = 100

@@ -37,6 +37,13 @@ spriteTypes = {
         texturefile = "gfx/interface/ideas/OUN/idea_OUN_ataman.dds"
     }
 
+#Фембои
+
+spriteType = {
+    name = "GFX_idea_FEM_pmc_boykisser"
+    texturefile = "gfx/interface/ideas/FEM/idea_FEM_pmc_boykisser.dds"
+}
+
 #ПВ
 
     spriteType = {

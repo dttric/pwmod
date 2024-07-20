@@ -10,16 +10,18 @@ focus_tree = {
 	default = no
 	focus = {
 		id = UKR_on_verge_focus
-		icon = GFX_goal_unknown
-		cost = 0
+		text = UKR_on_verge_focus
+		icon = GFX_focus_BOV_a_fractured_organisation
+		cost = 1,00
 		x = 7
 		y = 0
 
 	}
 	focus = {
 		id = UKR_pw_situation
-		icon = GFX_goal_unknown
-		cost = 0
+		text = UKR_pw_situation
+		icon = GFX_focus_UKR_they_tried_to_kill_us_we_survived
+		cost = 1,00
 		prerequisite = {
 			focus = UKR_on_verge_focus
 		}
@@ -29,8 +31,9 @@ focus_tree = {
 	}
 	focus = {
 		id = UKR_to_death
-		icon = GFX_goal_unknown
-		cost = 0
+		text = UKR_to_death
+		icon = GFX_focus_BOV_subdue_the_supreme_serpents
+		cost = 0,00
 		prerequisite = {
 			focus = UKR_pw_situation
 		}
@@ -43,8 +46,9 @@ focus_tree = {
 	}
 	focus = {
 		id = UKR_stop_fighting
-		icon = GFX_goal_unknown
-		cost = 0
+		text = UKR_stop_fighting
+		icon = GFX_focus_FUK_points_of_the_program
+		cost = 1,00
 		prerequisite = {
 			focus = UKR_pw_situation
 		}
@@ -57,8 +61,9 @@ focus_tree = {
 	}
 	focus = {
 		id = UKR_bandera_opposition
-		icon = GFX_goal_unknown
-		cost = 0
+		text = UKR_bandera_opposition
+		icon = GFX_focus_BOV_uneasy_truce
+		cost = 1,00
 		prerequisite = {
 			focus = UKR_on_verge_focus
 		}
@@ -68,8 +73,9 @@ focus_tree = {
 	}
 	focus = {
 		id = UKR_peace
-		icon = GFX_goal_unknown
-		cost = 0
+		text = UKR_peace
+		icon = GFX_focus_FUK_a_meeting_with_the_workforce
+		cost = 1,00
 		prerequisite = {
 			focus = UKR_bandera_opposition
 		}
@@ -82,8 +88,9 @@ focus_tree = {
 	}
 	focus = {
 		id = UKR_destroy_them
-		icon = GFX_goal_unknown
-		cost = 0
+		text = UKR_destroy_them
+		icon = GFX_focus_FUK_borovets_commissars
+		cost = 1,00
 		prerequisite = {
 			focus = UKR_bandera_opposition
 		}
@@ -96,17 +103,13 @@ focus_tree = {
 	}
 	focus = {
 		id = UKR_successor
-		icon = GFX_goal_unknown
-		cost = 0
+		icon = GFX_focus_FUK_inform_the_lost_and_confused
+		cost = 2,00
 		prerequisite = {
-			focus = UKR_on_verge
 			focus = UKR_stop_fighting
 			focus = UKR_to_death
 			focus = UKR_peace
 			focus = UKR_destroy_them
-		}
-		prerequisite = {
-			focus = UKR_on_verge
 		}
 		x = 7
 		y = 3
@@ -115,7 +118,7 @@ focus_tree = {
 	focus = {
 		id = UKR_mahno
 		icon = GFX_goal_unknown
-		cost = 0
+		cost = 0,00
 		prerequisite = {
 			focus = UKR_successor
 		}
@@ -131,7 +134,7 @@ focus_tree = {
 	focus = {
 		id = UKR_rinochek
 		icon = GFX_goal_unknown
-		cost = 0
+		cost = 0,00
 		prerequisite = {
 			focus = UKR_successor
 		}
@@ -147,7 +150,7 @@ focus_tree = {
 	focus = {
 		id = UKR_bandera
 		icon = GFX_goal_unknown
-		cost = 0
+		cost = 0,00
 		prerequisite = {
 			focus = UKR_successor
 		}
@@ -163,7 +166,7 @@ focus_tree = {
 	focus = {
 		id = UKR_konovalets
 		icon = GFX_goal_unknown
-		cost = 0
+		cost = 0,00
 		prerequisite = {
 			focus = UKR_successor
 		}
