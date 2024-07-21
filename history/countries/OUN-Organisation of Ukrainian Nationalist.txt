@@ -1,4 +1,4 @@
-capital = 202 #Kiev
+capital = 976 #Kiev
 
 oob = "OUN_2023"
 

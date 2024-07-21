@@ -1,4 +1,4 @@
-capital = 200 #ZeNeRe
+capital = 976 #ZeNeRe
 
 oob = "FEM_2023"
 

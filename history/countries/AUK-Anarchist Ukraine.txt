@@ -1,4 +1,4 @@
-capital = 227 #DeNeRe
+capital = 976 #DeNeRe
 
 oob = "AUK_2023"
 

@@ -1,0 +1,29 @@
+state={
+	id=976
+	name="STATE_976"
+	manpower = 1467080
+	
+	state_category = city
+
+	history={
+		owner = UKR
+		set_demilitarized_zone = yes
+		victory_points = {
+			6474 25
+		}
+		buildings = {
+			infrastructure = 5 #was: 7
+			arms_factory = 4
+			industrial_complex = 3
+			fuel_silo = 1
+			air_base = 8
+		}
+		add_core_of = UKR
+		add_core_of = PWD
+        add_core_of = AUK
+	}
+
+	provinces = { 6474 }
+
+	local_supplies=0.0 
+}

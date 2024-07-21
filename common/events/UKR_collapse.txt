@@ -1,0 +1,30 @@
+
+
+
+
+add_namespace = ukr
+
+#УКРАИНСКАЯ ГРАЖДАНСКАЯ ВОЙНА
+country_event = {
+	id = ukr.1
+	title = ukr.1.t
+	desc = ukr.1.d
+	picture = GFX_report_event_ukr_collapse
+
+	trigger = {
+
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = ukr.1.a
+		ai_chance = { factor = 50 }
+		trigger = {
+
+		}
+		
+	}
+}
